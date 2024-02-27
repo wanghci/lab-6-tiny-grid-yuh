@@ -1,0 +1,12 @@
+@media (max-width: 375px) {
+
+    nav ul, div, aside, footer, header {
+        display: none;
+    }
+
+    .wrapper {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "content"
+    }
+}
