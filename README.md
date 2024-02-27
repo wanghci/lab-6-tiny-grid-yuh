@@ -14,6 +14,6 @@ In this week's prep, you completed a responsive grid design that uses two "break
 # Acknowledgements
 
 Developers:
-1. Nay Bored
+1. Jelal Kaufman and Ozi Valdez
 
 With huge thanks to the ~~CS 343 cheat code~~ [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Realizing_common_layouts_using_grids#a_responsive_layout_with_1_to_3_fluid_columns_using_grid-template-areas).
